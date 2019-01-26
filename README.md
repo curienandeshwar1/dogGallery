@@ -16,4 +16,4 @@ I use to play sports like Badminton , Swimming , Throw Ball . I have been captai
 
 # Git tutorial
 
-![Git Tutorial](testFolder/b1.jpg "Result")
+![b1](testFolder/b1.jpg "Result")
