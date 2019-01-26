@@ -15,4 +15,4 @@ NA
 I use to play sports like Badminton , Swimming , Throw Ball . I have been captain of the ThrowBall competition during High School. I am very fond and highly inspired by  defense people.
 
 # Git tutorial
-![](testFolder/b1.jpg "Result")
+![](testFolder/b1.png)
