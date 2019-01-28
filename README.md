@@ -1,5 +1,5 @@
 # Curie Nandeshwar
-![](testFolder/CuriePic1.jpg)
+![](testFolder/CuriePic1.png)
 
 ![Prince of all Sayans](images/vegeta.jpg "Vegeta")
 
