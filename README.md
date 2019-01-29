@@ -1,7 +1,7 @@
 # Curie Nandeshwar
 ![](testFolder/CuriePic1.png)
 
-![Prince of all Sayans](images/vegeta.jpg "Vegeta")
+![](testFolder/trekking.jpeg)
 
 # Where are you from?
 
