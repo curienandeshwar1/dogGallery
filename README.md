@@ -1,7 +1,7 @@
 # Curie Nandeshwar
 ![](testFolder/CuriePic1.png)
 
-![](testFolder/trekking.jpeg)
+![](testFolder/trekking.jpg)
 
 # Where are you from?
 
