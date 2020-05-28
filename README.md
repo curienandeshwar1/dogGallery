@@ -18,6 +18,6 @@ This project allows you to do the following things.
 
 In the project directory, under 'build' folder, you can run:
 
-### `php -S localhost:8888` to start a server 
+#### `php -S localhost:8888` to start a server > Go to the browser > Enter localhost:8888
 
 
