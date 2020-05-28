@@ -83,7 +83,7 @@ class App extends React.Component {
           <header>
               <div className="jumbotron">
                 <h2> {this.state.breedvalue.toString().charAt(0).toUpperCase()+this.state.breedvalue.slice(1)} Dog Gallery</h2>
-                <h3>ITMD-565-cnandeshwar@hawk.iit.edu</h3>
+                <h3>-Curie Nandeshwar</h3>
                 <hr/> 
                 <br/><BreedSelect breedvalue={this.state.breedvalue} changedvalue={this.handleBreedChange}/>
               </div>              
